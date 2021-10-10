@@ -1,0 +1,12 @@
+.imageWidth-details-div{
+height: auto;
+}
+
+.imageWidth-details-div div p{
+    line-height: 20px;
+    text-align: left;
+    /* margin: 25px; */
+    /* padding: 4px; */
+    /* text-shadow: 1px 1px 1px; */
+    font-weight: 400;
+}
